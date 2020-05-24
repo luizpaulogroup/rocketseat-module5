@@ -19,7 +19,7 @@ This project was developed with the technologies:
 -  [react-router-dom](https://reacttraining.com/react-router/web/guides/quick-start)
 -  [react-bootstrap](https://react-bootstrap.netlify.app/)
 -  [styled-components](https://www.styled-components.com/)
--  [VS Code][vc]
+-  [Visual Studio Code](https://code.visualstudio.com/)
 
 ## :information_source: How To Use
 
